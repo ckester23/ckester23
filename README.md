@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ckester23
 - 👀 I’m interested in CIS, Musicals, and VR
-- 🌱 I’m currently learning C and Python applied to Algorithms and Data Structures
+- 🌱 I’m currently learning Game Development in Unity
 - 📫 How to reach me: ckester@uoregon.edu
 
 <!---
