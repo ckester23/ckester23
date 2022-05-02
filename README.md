@@ -5,7 +5,7 @@
 - Repositories to Check Out:
 -     John-Lemon-Jaunt ; Check out my team's implementation of the Unity Learn
        John Lemon's Haunted Jaunt, with some special unique features!
--     PoC ; Check out my team's Proof of Concept for our new game: 
+-     The-Computational-Adventures-of-robot- ; Check out my team's Proof of Concept for our new game: 
        The Computational Adventures of [robot]
 <!---
 ckester23/ckester23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
