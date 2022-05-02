@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ckester23
+- 👋 Hi, I’m Cheyanne! (@ckester23)
 - 👀 I’m interested in CIS, Musicals, and VR
 - 🌱 I’m currently learning Game Development in Unity
 - 📫 How to reach me: ckester@uoregon.edu
