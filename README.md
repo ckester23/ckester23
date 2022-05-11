@@ -2,6 +2,7 @@
 - 👀 I’m interested in CIS, Musicals, and VR
 - 🌱 I’m currently learning Game Development in Unity
 - 📫 How to reach me: ckester@uoregon.edu
+- Check out my portfolio website! https://ckester4.wixsite.com/ckester-portfolio 
 - Repositories to Check Out:
 -     John-Lemon-Jaunt ; Check out my team's implementation of the Unity Learn
        John Lemon's Haunted Jaunt, with some special unique features!
