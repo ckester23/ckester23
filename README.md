@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Cheyanne! (@ckester23)
-- 👀 I’m interested in CIS, Musicals, and VR
-- 🌱 I’m currently learning Game Development in Unity
+- 👀 I’m interested in CS, Gundams, and VR
+- 🌱 I’m currently learning Web Development and Machine Learning
 - 📫 How to reach me: ckester@uoregon.edu
 - Check out my portfolio website! https://ckester4.wixsite.com/ckester-portfolio 
 - Repositories to Check Out:
