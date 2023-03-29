@@ -4,8 +4,7 @@
 - 📫 How to reach me: ckester@uoregon.edu
 - Check out my portfolio website! https://ckester4.wixsite.com/ckester-portfolio 
 - Repositories to Check Out:
--     John-Lemon-Jaunt ; Check out my team's implementation of the Unity Learn
-       John Lemon's Haunted Jaunt, with some special unique features!
+-     Web-Development-CS322 ; Check out the assignments from my most recent term of web development. Project 6 is by far the best!
 -     The-Computational-Adventures-of-robot- ; Check out my team's Proof of Concept for our new game: 
        The Computational Adventures of [robot]
 <!---
