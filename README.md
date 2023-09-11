@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Cheyanne! (@ckester23)
 - 👀 I’m interested in CS, Gundams, and VR
-- 🌱 I’m currently learning Web Development and Machine Learning
-- 📫 How to reach me: ckester@uoregon.edu
+- 🌱 I’m currently learning SQL
+- 📫 How to reach me: cheyanne.kester2001@gmail.com
 - Check out my portfolio website! https://ckester4.wixsite.com/ckester-portfolio 
 - Repositories to Check Out:
 -     Web-Development-CS322 ; Check out the assignments from my most recent term of web development. Project 6 is by far the best!
